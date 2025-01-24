@@ -66,7 +66,7 @@ class SpeakerDiarization:
 
 
 if __name__ == "__main__":
-    auth_token = "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"
+    auth_token = "YOUR_TOKEN_HERE"
     input_directory = "./dataset/Control/"
     output_directory = "./patient_dataset/"
 
